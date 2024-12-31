@@ -5,4 +5,4 @@ it isn't that great or anything since it really just loads the fortnite.gg stat 
 
 credits: [fortnite.gg](https://fortnite.gg) (stats page),
 
-includes a stat tracker (fortnite.gg) a item shop (zeropointdb) and idk maybe more
+includes a stat tracker (fortnite.gg) a item shop (fortnite.gg will be changed eventually) and idk maybe more
